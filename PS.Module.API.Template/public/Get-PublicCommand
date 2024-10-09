@@ -1,0 +1,27 @@
+function Get-PublicCommand {
+<#
+    .SYNOPSIS
+    
+    .DESCRIPTION
+
+    .PARAMETER 
+
+    .INPUTS
+
+    .OUTPUTS
+
+    .EXAMPLE
+        PS> Get-PublicCommand 
+
+    .NOTES
+#>
+
+    [cmdletbinding()]
+
+    param(
+        [Parameter()]
+        [String] $Parameter1,
+    )
+# Public Function Code
+  pass
+}

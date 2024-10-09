@@ -1,0 +1,8 @@
+Function Get-PrivateCommand{
+param(
+	$parameter
+)
+
+# Private function code
+pass
+}
